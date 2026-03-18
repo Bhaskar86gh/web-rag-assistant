@@ -197,4 +197,7 @@ Bhaskar
 
 Give it a ⭐ on GitHub and share it!
 
+## 📸 Demo Screenshots
 
+![Screenshot 1](screenshots/weblink.png)
+![Screenshot 2](screenshots/answer.png)
