@@ -197,8 +197,7 @@ Bhaskar
 
 Give it a ⭐ on GitHub and share it!
 
-<img width="1351" height="547" alt="image" src="https://github.com/user-attachments/assets/d8d1a1b3-479c-4546-97d6-3ea9ac58b9ae" />
-<img width="1350" height="595" alt="image" src="https://github.com/user-attachments/assets/5100516c-44fe-4b6d-ac06-dba70e3931ce" />
-<img width="1347" height="626" alt="image" src="https://github.com/user-attachments/assets/7a8d85ee-15c6-44e5-a147-f36ddcfc0cc8" />
 
+
+![answer](https://github.com/user-attachments/assets/63046988-008f-45f9-8955-7fba949a5d07)
 
