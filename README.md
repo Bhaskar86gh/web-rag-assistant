@@ -198,6 +198,3 @@ Bhaskar
 Give it a ⭐ on GitHub and share it!
 
 
-
-![answer](https://github.com/user-attachments/assets/63046988-008f-45f9-8955-7fba949a5d07)
-
